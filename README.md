@@ -6,6 +6,8 @@ languages: ruby
 ## Environment Setup for Students Using Mac Computers
 Let's go ahead and get your environment setup. Don't worry too much about the how's and why's of all of this. Our goal is to get you up and running as fast as possible!
 
+***Attn Alumni from Intro to Software Engineering: You do NOT need to go through environment setup!!**
+
 ##1. Download and Install Google Chrome
 
 https://www.google.com/intl/en/chrome/browser/
@@ -16,7 +18,7 @@ Type `xcode-select --install` into your terminal. If a window pops up telling yo
 
 ##3. Download Homebrew
 
-[Homebrew](http://brew.sh/.). is an awesome package manager, and makes downloading lots of software really easy. Download Homebrew by entering
+[Homebrew](http://brew.sh/.) is an awesome package manager, and makes downloading lots of software really easy. Download Homebrew by entering
 ```
   ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
