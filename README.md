@@ -1,7 +1,4 @@
----
-tags: setup, environment, bash, kids
-languages: ruby
----
+
 
 ## Environment Setup for Students Using Mac Computers
 
