@@ -246,4 +246,4 @@ Phew! That was a lot of work, but now you are all set.
 
 
 
-<a href='https://learn.co/lessons/hs-web-design-environment-setup' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-web-design-environment-setup' title='Environment Setup for Students Using Mac Computers'>Environment Setup for Students Using Mac Computers</a> on Learn.co and start learning to code for free.</p>
